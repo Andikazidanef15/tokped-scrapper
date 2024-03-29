@@ -1,0 +1,5 @@
+concurrent_log_handler==0.9.24
+pandas==2.2.0
+matplotlib==3.7.4
+selenium==4.17.2
+python-dotenv==1.0.0
